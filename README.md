@@ -98,5 +98,5 @@ Smart Groom is an AI-powered application that revolutionizes the way users choos
 ### Steps:
 1. **Clone the repository**:
    ```bash
-   git clone (https://github.com/vaibhavekshinge/Hair-Style-Recommendation---Final-Year-Project.git)
+   git clone https://github.com/vaibhavekshinge/Hair-Style-Recommendation---Final-Year-Project.git
    cd smart-groom
